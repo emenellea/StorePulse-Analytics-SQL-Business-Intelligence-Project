@@ -1,7 +1,7 @@
 # StorePulse-Analytics-SQL-Business-Intelligence-Project
  
 📌 Project Overview
-![Alt text](images/image.png)
+![My Image](image.png)
 
 This project analyzes a structured commerce database to extract business insights related to revenue performance, customer behavior, and product trends using advanced SQL techniques.
 The goal of this project is to simulate real-world data analysis tasks performed by data analysts in retail and e-commerce environments.
