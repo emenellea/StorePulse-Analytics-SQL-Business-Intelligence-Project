@@ -7,17 +7,17 @@ The goal of this project is to simulate real-world data analysis tasks performed
 
 _ Database Schema :
 The project is built using three relational tables:
-1️⃣ Customers
+1️/ Customers
 •	customer_id (Primary Key)
 •	name
 •	city
 •	join_date
-2️⃣ Products
+2️/ Products
 •	product_id (Primary Key)
 •	product_name
 •	category
 •	price
-3️⃣ Orders
+3️/ Orders
 •	order_id (Primary Key)
 •	customer_id (Foreign Key)
 •	product_id (Foreign Key)
